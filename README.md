@@ -55,7 +55,7 @@ Gere uma imagem de uma aestiva(papagaio verdadeiro) em um ambiente de floresta a
 Close-up portrait of a vibrant green Amazon parrot (Amazona aestiva) perched on a natural tree branch in the Amazon rainforest. Shot with 50mm lens on mirrorless camera, shallow depth of field with beautiful bokeh. Lush green tropical foliage softly blurred in background. Natural lighting filtering through forest canopy. Photorealistic wildlife photography style, sharp focus on bird's detailed feathers and bright eyes. Professional nature photography composition.
 ```
 
-## 7. Resultado da Geração
+## 7. Resultado da Geração (Google Image FX)
 
 ![Resultado](./images/Image_fx.jpg)
 
